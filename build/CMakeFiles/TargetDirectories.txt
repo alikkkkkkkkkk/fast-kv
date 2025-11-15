@@ -1,0 +1,3 @@
+/home/alik/fast-kv/build/CMakeFiles/fast_kv.dir
+/home/alik/fast-kv/build/CMakeFiles/edit_cache.dir
+/home/alik/fast-kv/build/CMakeFiles/rebuild_cache.dir
