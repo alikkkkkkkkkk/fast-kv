@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/fast_kv.dir/src/main.cpp.o -o fast_kv
